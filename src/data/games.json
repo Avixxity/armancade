@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle",
+    "tags": ["Classic", "Math"]
+  },
+  {
+    "id": "2",
+    "title": "Doodle Jump",
+    "description": "Jump as high as you can in this classic arcade game.",
+    "thumbnail": "https://picsum.photos/seed/doodle/400/300",
+    "iframeUrl": "https://doodlejump.io/game/",
+    "category": "Arcade",
+    "tags": ["Classic", "Platformer"]
+  },
+  {
+    "id": "3",
+    "title": "Tetris",
+    "description": "The world-famous puzzle game that everyone knows and loves.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "category": "Puzzle",
+    "tags": ["Retro", "Classic"]
+  },
+  {
+    "id": "4",
+    "title": "Snake",
+    "description": "Eat the apples and grow your snake without hitting the walls.",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Arcade",
+    "tags": ["Classic", "Retro"]
+  },
+  {
+    "id": "5",
+    "title": "Slope",
+    "description": "A fast-paced 3D running game where you roll down a slope.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://slope-game.github.io/",
+    "category": "Action",
+    "tags": ["3D", "Speed"]
+  },
+  {
+    "id": "6",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible and become the king of the map.",
+    "thumbnail": "https://picsum.photos/seed/paperio/400/300",
+    "iframeUrl": "https://paper-io.com/",
+    "category": "IO",
+    "tags": ["Multiplayer", "Strategy"]
+  }
+]
